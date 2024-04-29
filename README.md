@@ -1,5 +1,5 @@
-# Modelo de Currículo - Leandro Acquati
+# Resume Template - Leandro Acquati
 
-## [https://acquati.github.io/curriculo.github.io/](https://acquati.github.io/curriculo.github.io/)
+## [https://acquati.github.io/resume/](acquati.github.io/resume)
 
-Criado a partir do projeto [https://ltgouvea.github.io/](https://ltgouvea.github.io/)
+Created from project [https://ltgouvea.github.io/](ltgouvea.github.io)
