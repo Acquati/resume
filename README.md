@@ -1,5 +1,5 @@
 # Resume Template - Leandro Acquati
 
-Web Site: [https://acquati.github.io/resume/](acquati.github.io/resume)
+Web Site: [acquati.github.io/resume](https://acquati.github.io/resume/)
 
-Created from project [https://ltgouvea.github.io/](https://ltgouvea.github.io/).
+Based on project: [ltgouvea.github.io](https://ltgouvea.github.io/)
